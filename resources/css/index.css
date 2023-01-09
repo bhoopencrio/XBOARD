@@ -1,0 +1,50 @@
+.rectangle{
+    background-color: #E537B9;
+    width: 27px;
+    height: 9px;
+}
+
+.title{
+    color: #292B2E;
+    font-style: Montserrat;
+    font-weight: 600;
+}
+
+.todayTitle{
+    color: #252B42;
+    font-style: Montserrat;
+    font-weight: 600;
+}
+
+.subheading{
+    color: #858585;
+    font-weight: 400;
+}
+.description{
+    color: #292B2E;
+    font-weight: 500;
+    font-style: Montserrat;
+}
+
+.hr{
+    color: Gray;
+}
+
+.carousel-button{
+    /* width: 20px; */
+    /* height: 630px; */
+}
+
+
+.card-img-top{
+    /* width: 80%; */
+    height: 50vh;
+    overflow: hidden;
+    transition: 0.5s all;
+
+}
+.card-img-top:hover{
+    transform: scale(1.1);
+  filter: brightness(50%);
+    
+}
